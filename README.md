@@ -3,17 +3,19 @@
 This is a Neural Style Transfer, a deep learning algorithm (Gatys et al. 2015, link: https://arxiv.org/abs/1508.06576).
 This algorithm merges two images into one, based on a content image and style image, to create a generated image. 
 
+
 Check out some examples of what this algorithm can do.
+
+
 Style Image
 ![Monet](images/monet.jpg)
 
-https://github.com/jgmartinez90/Art_Generator_with_Neural_Style_Transfer/blob/master/monet.jpg?raw=true 
 
 Content Image
-https://github.com/jgmartinez90/Art_Generator_with_Neural_Style_Transfer/blob/master/content_image.png?raw=true
+![Content_image](images/content_image.png)
 
 Generated Image
-https://github.com/jgmartinez90/Art_Generator_with_Neural_Style_Transfer/blob/master/generated_image.jpg?raw=true
+![Generated_image](images/generated_image.jpg)
 
 
 Style Image
