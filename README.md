@@ -8,13 +8,16 @@ Check out some examples of what this algorithm can do.
 
 
 Style Image
+
 ![Monet](images/monet.jpg)
 
 
 Content Image
-![Content_image](images/content_image.png)
+
+![Content_image](images/louvre_small.jpg.png)
 
 Generated Image
+
 ![Generated_image](images/generated_image.jpg)
 
 
