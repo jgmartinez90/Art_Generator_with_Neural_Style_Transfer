@@ -41,8 +41,8 @@ Style Image
 
 Content Image
 
-![Pool_champs](images/the_grand_pool_league_champs_400_300.jpeg)
+![Pool_champs](images/the_grand_pool_league_champs_400_300.jpg)
 
 Generated Image
 
-![Generated_image2](images/the_grand_pool_champs.jpg)
+![Generated_image2](images/the_grand_pool_league_champs.jpg)
