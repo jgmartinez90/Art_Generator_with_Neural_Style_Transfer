@@ -45,4 +45,4 @@ Content Image
 
 Generated Image
 
-![Generated_image2](images/the_grand_pool_league_champs.jpg)
+![Generated_image2](images/the_grand_pool_champs.jpg)
