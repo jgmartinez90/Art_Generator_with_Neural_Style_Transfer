@@ -5,6 +5,8 @@ This algorithm merges two images into one, based on a content image and style im
 
 Check out some examples of what this algorithm can do.
 Style Image
+![Monet](images/monet.jpg)
+
 https://github.com/jgmartinez90/Art_Generator_with_Neural_Style_Transfer/blob/master/monet.jpg?raw=true 
 
 Content Image
