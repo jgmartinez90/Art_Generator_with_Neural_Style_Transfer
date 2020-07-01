@@ -14,7 +14,7 @@ Style Image
 
 Content Image
 
-![Content_image](images/louvre_small.jpg.png)
+![Content_image](images/louvre_small.jpg)
 
 Generated Image
 
